@@ -72,3 +72,29 @@ a{
     height: 50vh !important;
     width: 20vw !important;
 }
+
+#categories{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    padding: 6vh 0vh !important;
+    width: 100vw !important;
+    gap: 40px !important;
+}
+
+#categories div{
+    height: 18vh !important;
+    width:  10vw !important;
+    border-radius: 50% !important;
+    text-align: center !important;
+}
+
+#categories p{
+    padding: 2vh !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+}
+#title{
+    text-align: center !important;
+    padding-top: 6vh !important;
+}
